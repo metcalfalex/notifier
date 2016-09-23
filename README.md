@@ -5,12 +5,12 @@ Gmail-based notifier for python scripts
 
 e.g. alexmmetcalfm2m@gmail.com
 
-## (2) Allow loser security settings for smtp access
+## (2) Allow looser security settings for smtp access
 
 https://www.google.com/settings/security/lesssecureapps
 
 ## (3) Add function to script requiring notification
 
-Send email notification to self
+Send email notification to self  
 @email_subject (string) Subject of the email to be sent
 

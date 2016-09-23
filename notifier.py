@@ -11,7 +11,7 @@ def send_email(email_subject):
 	'''
 
 	gmail_sender = 'alexmmetcalfm2m@gmail.com'
-	gmail_passwd = 'Machine123'
+	gmail_passwd = 'xxx'
 	email_address_to = 'alexmmetcalfm2m@gmail.com'
 	
 	script_name = os.path.basename(__file__)
